@@ -1,6 +1,6 @@
 {
   "domain": "sia",
-  "name": "SIA Alarm Systems",
+  "name": "SIA Custom Alarm Systems",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/sia",
   "requirements": [
