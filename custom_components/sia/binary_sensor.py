@@ -1,6 +1,7 @@
 """Module for SIA Binary Sensors."""
 
 import logging
+import time
 from typing import Callable
 
 from homeassistant.components.binary_sensor import (
